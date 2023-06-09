@@ -1,0 +1,7 @@
+This is the function for swapping 2 numbers
+
+let temp = a;
+a = b;
+b = temp;
+
+return temp;
